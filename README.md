@@ -1,1 +1,3 @@
 # python-api-challenge
+The python-api-challenge is a project that dives into weather data around the world and gives some statistical and visual data about it. We specifically look at things line temperature, humidity, cloudiness and wind speed for and check for any trends based on distance from the equator (using longitude and latitude). We also break the data down into different hemispheres (Northern/Southern) to further analyze relationships and trends.
+We use the weather information to ceate a Humidity Heatmap to visually display the findings. We then sort and clean the data to only include suitable areas, where we then use mapping to locate hotels within a given range to our acceptable areas.
